@@ -1,0 +1,11 @@
+/* Style div */
+div {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0;
+    font-size: x-large;
+    font-style: oblique;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
